@@ -45,18 +45,18 @@
             android:layout_height="wrap_content"
             android:text="HOORAY!!" />
 
+        <Switch
+            android:id="@+id/switch2"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_weight="3"
+            android:text="   FROSTING" />
+
         <Button
             android:id="@+id/button2"
             android:layout_width="72dp"
             android:layout_height="wrap_content"
             android:text="yay..." />
-
-        <Switch
-            android:id="@+id/switch2"
-            android:layout_width="wrap_content"
-            android:layout_height="48dp"
-            android:layout_weight="1"
-            android:text="   FROSTING" />
 
     </LinearLayout>
 </LinearLayout>
